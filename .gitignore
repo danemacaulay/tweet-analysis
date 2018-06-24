@@ -1,0 +1,5 @@
+embeddings
+.ipynb_checkpoints
+__pycache__
+cache
+models
